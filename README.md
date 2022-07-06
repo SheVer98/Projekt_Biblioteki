@@ -1,6 +1,6 @@
 # Projekt_Biblioteki
 Projekt biblioteki cyfrowej
-
+W pracy korzystano z oprogramowania XAMPP.
 W pierwszej kolejności należy zaimportować bibliotekę "biblioteka.sql".
 Po wybraniu pliku głównego "main.php" ukazuje się nam menu logowania. Możemy zalogować się jako użytkownik np. mail: nowy@mail.com hasło:123 albo administrator - mail: admin@mail.com, hasło:123. 
 
